@@ -80,7 +80,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,git,bootstrap,css,discord,github,html,linux,mysql,postgres,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,django,git,bootstrap,css,discord,github,html,linux,mysql,postgres,vscode,fastapi&perline=14" />
   </a>
 </p>
 
@@ -97,4 +97,4 @@
 ----------------------------------------------------------------------
 Credit: [Kusto7](https://github.com/Kusto7)
 
-Last Edited on: 09/08/2023
+Last Edited on: 15/01/2024
